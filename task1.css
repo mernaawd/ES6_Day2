@@ -1,0 +1,29 @@
+ #container{
+    padding: 20px;
+    display: flex;
+}
+
+#container div{ 
+ display: inline;
+    width: 100px;
+    height:80px;
+    background-color: rgb(195, 248, 230);
+    text-align: center;
+    margin: 10px;
+    border: 2px solid rgb(20, 117, 106);
+} 
+#posts div{
+    padding-left: 30%;
+    margin-bottom: 50px;
+    width: 70%;
+    height: fit-content;
+    border: 2px solid rgb(20, 117, 106);
+}
+
+
+/* .active-btn{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 10px;
+} */
